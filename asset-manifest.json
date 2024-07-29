@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jim-low/static/css/main.a1efc8b5.css",
+    "main.js": "/jim-low/static/js/main.0b6c4a96.js",
+    "index.html": "/jim-low/index.html",
+    "main.a1efc8b5.css.map": "/jim-low/static/css/main.a1efc8b5.css.map",
+    "main.0b6c4a96.js.map": "/jim-low/static/js/main.0b6c4a96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1efc8b5.css",
+    "static/js/main.0b6c4a96.js"
+  ]
+}
