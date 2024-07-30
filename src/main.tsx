@@ -1,5 +1,3 @@
-import './App.css';
-
 const App = () => {
     function handleRickRoll() {
         window.location.href = "https://www.youtube.com/watch?v=uHgt8giw1LY"
