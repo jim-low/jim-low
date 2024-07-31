@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/jim-low/static/css/main.782bae7a.css",
-    "main.js": "/jim-low/static/js/main.842d75c0.js",
+    "main.css": "/jim-low/static/css/main.87c4bf03.css",
+    "main.js": "/jim-low/static/js/main.f66c6d73.js",
+    "static/media/jym-high-resolution-logo-transparent.png": "/jim-low/static/media/jym-high-resolution-logo-transparent.1b462f29517033d98633.png",
     "index.html": "/jim-low/index.html",
-    "main.782bae7a.css.map": "/jim-low/static/css/main.782bae7a.css.map",
-    "main.842d75c0.js.map": "/jim-low/static/js/main.842d75c0.js.map"
+    "main.87c4bf03.css.map": "/jim-low/static/css/main.87c4bf03.css.map",
+    "main.f66c6d73.js.map": "/jim-low/static/js/main.f66c6d73.js.map"
   },
   "entrypoints": [
-    "static/css/main.782bae7a.css",
-    "static/js/main.842d75c0.js"
+    "static/css/main.87c4bf03.css",
+    "static/js/main.f66c6d73.js"
   ]
 }
