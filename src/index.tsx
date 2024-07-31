@@ -6,7 +6,7 @@ import { Theme } from '@radix-ui/themes';
 import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router-dom';
 import Home from './shared/pages/home';
 
-const homeRoute = <Route path="/" element={<Home />} />;
+const homeRoute = <Route path="/jim-low" element={<Home />} />;
 const router = createBrowserRouter(createRoutesFromElements(homeRoute));
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
