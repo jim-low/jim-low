@@ -1,0 +1,9 @@
+#header {
+    height: 80px;
+    width: 80%;
+}
+
+#header .header-selection-item {
+    font-size: large;
+    cursor: pointer;
+}
